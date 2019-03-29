@@ -1,5 +1,5 @@
 # Roller_counter
-Roller counter with stm8l101, cheap 24 steps per rotation encoder and i2c LCD (motorola T191 LCD)
+Roller counter with stm8l101, cheap 24 steps per rotation encoder and i2c LCD (motorola T191 LCD, chip ST7558)
 
 This schematic has not power off switch because current in sleep mode below than 1uA, sleep mode activated utomaticaly when you not move wheel more than 30 sekonds.
 
